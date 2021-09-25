@@ -1,8 +1,8 @@
-# Подготовка Raspberry Pi Zero WH
+# Подготовка Raspberry Pi Zero
 
 ## Установка операционной системы Linux на Raspberry PI Zero
 
-Для начала установите последнюю версию Raspberry PI OS LITE (32-bit) используя Raspberry Pi Imager https://www.raspberrypi.org/software/
+Для начала установи последнюю версию Raspberry PI OS LITE (32-bit), используя [Raspberry Pi Imager](https://www.raspberrypi.org/software/)
 
 ## Подключите Raspberry PI к Wifi и включите ssh.
 
