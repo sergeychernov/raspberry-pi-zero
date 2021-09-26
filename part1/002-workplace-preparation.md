@@ -199,4 +199,4 @@ git config --global user.name "Твое имя"
 
 А если нет, то самое время освоить бесплатный курс ["Основы командной строки"](https://ru.hexlet.io/courses/cli-basics?ref=366190)
 
-[К оглавлению](../README.md)
+[К оглавлению](../index.md)
