@@ -1,5 +1,10 @@
 # С чего начнем?
 
+> Прежде всего установи Slack, там ты можешь задать. Это мессенджер, который используют все разработчики мира. У нашего проекта тоже есть там рабочее пространство, где ты можешь задавать любые вопросы касающиеся этого руководства, обязательно найдутся люди, которые тебе помогут.
+
+> Адрес нашего пространства в Slack:
+https://raspberryru.slack.com/
+
 ## Тебе понадобится:
 
 ### Компьютер с доступом в интернет
@@ -10,16 +15,14 @@
 
 На рынке представлено несколько моделей. От простых до очень мощных.
 
-Я рекомендую купить простую [Raspberry Pi Zero WH](https://amperkot.ru/products/minikompyuter_raspberry_pi_zero_wh_wifi_i_bluetooth_40/39171536.html), она маленькая, с маленьким энергопотреблением и стоит недорого.
+Я рекомендую купить простую [Raspberry Pi Zero WH](https://amperkot.ru/products/minikompyuter_raspberry_pi_zero_wh_wifi_i_bluetooth_40/39171536.html), она маленькая, с маленьким энергопотреблением и стоит недорого. W в названии говорит о встроенном WIFI, а H - о наличии распаяных пинов. Если ты умеешь паять, а найти плату с распаяными пинами не удалось, то отдельно можешь заказать [гребенку GPIO](https://amperkot.ru/msk/catalog/nabor_aksessuarov_3_v_1_dlya_raspberry_pi_zero-24358436.html).
 
-Для опытов из первой части достаточно [Raspberry Pi Zero W](https://amperkot.ru/products/minikompyuter_raspberry_pi_zero_w____wifi_i_bluetooth_40/24289461.html), но если ты хочешь научиться работать с датчиками и устройствами, то лучше сразу купить **WH**, на ней уже распаяны пины. W в названии говорит о встроенном WIFI, а H - о наличии распаяных пинов.
-
-Если у вас нет компьютера, то есть значительно более дорогая модель.
-[Raspberry Pi 4 8Gb](https://amperkot.ru/products/minikompyuter_raspberry_pi_4_model_b__8gb/39108411.html), она так же подойдет для всех опытов, а кроме этого к ней можно подключить монитор, клавиатуру и мышь и работать с ней как с рабочей станцией.
+Если не получилось найти [Raspberry Pi Zero WH](https://amperkot.ru/products/minikompyuter_raspberry_pi_zero_wh_wifi_i_bluetooth_40/39171536.html), она, к сожалению, всегда в дефиците и обычно продается только по одной в руки, то рекомендую посмотреть более мощные варианты: [3B](https://amperkot.ru/msk/catalog/minikompyuter_raspberry_pi_3_model_b-24137261.html), [3B+](https://amperkot.ru/msk/catalog/minikompyuter_raspberry_pi_3_model_b-24362436.html), [3A+](https://amperkot.ru/msk/catalog/minikompyuter_raspberry_pi_3_model_a-39358129.html) и [4B 2Gb](https://amperkot.ru/msk/catalog/minikompyuter_raspberry_pi_4_model_b__2gb-28711006.html), последняя выпускается в разных вариантах и самая дорогая 
+[Raspberry Pi 4 8Gb](https://amperkot.ru/products/minikompyuter_raspberry_pi_4_model_b__8gb/39108411.html), позволит заменить компьютер, к ней можно подключить монитор, клавиатуру и мышь и работать с ней как с рабочей станцией.
 
 ### micro SD карта
 
-Для опытов подойдет от 8GB, класса 10. Если ты будешь использовать **Raspberry Pi 4** плату и как компьютер, то лучше 32GB, но это будет удобно только для опытов из первой части, так как при соединении проводов плату придется выключать. Нужен [Micro SD Card Reader](https://aliexpress.ru/item/1005002256132372.html), чтобы с помощью компьютера можно было записать туда операционную систему.
+Для опытов подойдет от 8GB, класса 10. Если ты будешь использовать **Raspberry Pi 4** плату и как компьютер, то лучше 32GB. Нужен [Micro SD Card Reader](https://aliexpress.ru/item/1005002256132372.html), чтобы с помощью компьютера можно было записать туда операционную систему.
 
 ### Блок питания для Raspberry Pi
 
@@ -37,6 +40,7 @@
 * Ты сделаешь из Raspberry Pi Web Server, и сможешь управлять им со смартфона или компьютера.
 * Перемещать написанные программы с компьютера на Raspberry Pi с помощью Git
 * Основы языка программирования JavaScript
+* Управлению светодиодами.
 
 ## Пока работает доставка
 
