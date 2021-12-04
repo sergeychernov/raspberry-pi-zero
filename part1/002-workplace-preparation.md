@@ -201,7 +201,7 @@ git config --global user.name "Твое имя"
 
 ## Что дальше?
 
-Теперь, если Raspberry PI у тебя, ты можешь приступать к [следующей главе](003-raspberry-pi-preparation).
+Теперь, если Raspberry PI у тебя, ты можешь приступать к [следующей главе](003-raspberry-pi-preparation.md).
 
 А если нет, то самое время освоить бесплатный курс ["Основы командной строки"](https://ru.hexlet.io/courses/cli-basics?ref=366190)
 
