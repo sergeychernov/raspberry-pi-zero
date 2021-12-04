@@ -28,6 +28,8 @@
 
 [Подготовка Raspberry Pi Zero W](part1/003-raspberry-pi-preparation.md)
 
+[Программа начинает общаться](part1/004-console-args.md)
+
 ### Часть вторая
 
 Знакомство с HTML. Сайт под управлением Raspberry Pi. Еще немного JavaScript. Датчики температуры, освещенности, движения.
