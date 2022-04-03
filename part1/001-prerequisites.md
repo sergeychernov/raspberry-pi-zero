@@ -32,6 +32,8 @@ https://raspberryru.slack.com/
 
 * Три резистора 330 Ом 
 * Три светодиода зеленый, желтый, красный
+* BreadBoard
+* [Набор коннекторов](https://aliexpress.ru/item/4000465062848.html) M-M M-F F-F
 
 ## Чему ты научишься в первой части
 
